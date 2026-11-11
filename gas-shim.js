@@ -1,6 +1,6 @@
 // gas-shim.js — meniru google.script.run lewat fetch ke Apps Script (Api.gs)
 (function () {
-  var API_URL = 'https://script.google.com/macros/s/AKfycbyIQ96mPN2iBhfA4Py7Ag6d7Lthf-5GrKTIDw9C3HCzAnMQK6VbUwy98mFw546w-KxQ/exec';
+  var API_URL = 'https://script.google.com/macros/s/AKfycbzjhjTNbzjShVCC4gN-Xrm3ZmxnC6W39Ticr2gr0R-Iic4t2zhyl4QY8EBIGmD5g0-j/exec';
   var SESSION_KEY = 'absensiAppSession';
 
   function getToken() {
